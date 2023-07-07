@@ -4,8 +4,8 @@
 ##### Gilberto Viana de Oliveira 
 > atualizado 07/07/2023
 
-Primeiramente, pra quem não me conhece, sou Gilberto, professor do curso técnico em informática e também do curso de Análise e desenvolvimento de sistemas. Criei esse
-repositório com ojetivo de agrupar algumas informações para meus alunos. Em diversas aulas sugiro ferramentas, apostilas, livros, canais, etc. Muitas vezes (quem é professor sabe), a gente acaba esquecendo de colocar alguma referência naquele exato momento. Sendo assim, este repositório agrupa a maioria dessas indicações de maneira organizada. Também deixo aberto para quem queira contribuir com mais materiais relacionados. :metal:
+Primeiramente, pra quem não me conhece, sou Gilberto, professor do curso Técnico em Informática e também do curso de Análise e Desenvolvimento de Sistemas. Criei esse
+repositório com o ojetivo de agrupar algumas informações para meus alunos. Em diversas aulas sugiro ferramentas, apostilas, livros, canais, etc. Muitas vezes (quem é professor sabe), a gente acaba esquecendo de colocar alguma referência naquele exato momento. Sendo assim, este repositório agrupa a maioria dessas indicações de maneira organizada. Também deixo aberto para quem queira contribuir com mais materiais relacionados. :metal:
 
 
 ## :closed_book: Livros 
@@ -57,7 +57,8 @@ Algumas IDEs instaláveis, bem como algumas alternativas online e ferramentas qu
 ## :newspaper: Artigos 
   - #### Para todos :thumbsup: 
      - [Manifesto para desenvolvimento ágil de software](https://agilemanifesto.org/iso/ptbr/manifesto.html)
-     - [Git e Github](https://www.alura.com.br/artigos/o-que-e-git-github)
+     - [Usando Github pela primeira vez](https://github.com/gvoliveira/introducaogithub)
+     - [Mais sobre Git e Github](https://www.alura.com.br/artigos/o-que-e-git-github)
   - #### Web
      - [Mozilla Developer](https://developer.mozilla.org/pt-BR/)
      - [W3Schools](https://www.w3schools.com/)
