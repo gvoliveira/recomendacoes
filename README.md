@@ -2,7 +2,7 @@
 ### _Um resumo com materiais úteis para estudos na área de desenvolvimento_
  ![version](https://badgen.net/badge/vers%C3%A3o/0.1/yellow) ![license](https://badgen.net/badge/license/MIT/green)   ![ADS](https://badgen.net/badge/icon/ADS?icon=terminal&label) ![tinf](https://badgen.net/badge/icon/TINF?icon=buymeacoffee&label) 
 ##### Gilberto Viana de Oliveira 
-> julho/2023
+> agosto/2023
 
 _Primeiramente, pra quem não me conhece, sou Gilberto, professor do curso Técnico em Informática e também do curso de Análise e Desenvolvimento de Sistemas._ 
 _Criei este repositório com o ojetivo de agrupar algumas informações para meus alunos. Em diversas aulas sugiro ferramentas, apostilas, livros, canais, etc. Muitas vezes (quem é professor sabe), a gente acaba esquecendo de colocar alguma referência naquele exato momento. Sendo assim, este repositório agrupa a maioria dessas indicações de maneira organizada. Também deixo aberto para quem queira contribuir com mais materiais relacionados._ 👊
@@ -41,6 +41,7 @@ Algumas IDEs instaláveis, bem como algumas alternativas online e ferramentas qu
 - #### Algoritmos 🚥 
    - VisualG: https://visualg3.com.br/baixar-o-visualg3-0/
    - Portugol Studio: http://univali-lite.github.io/Portugol-Studio/
+   - Fluxogramas: https://www.lucidchart.com/
 
 - #### C 🚀
     - GCC Online:  https://www.onlinegdb.com/online_c_compiler
@@ -108,6 +109,7 @@ Algumas IDEs instaláveis, bem como algumas alternativas online e ferramentas qu
       - [Awwwards](https://www.awwwards.com/) _Awwwards é um organismo de competição profissional de web design e desenvolvimento._
       - [Dribbble](https://dribbble.com/) _Dribbble é uma comunidade online para a exposição de conteúdo artístico._
       - [Behance](https://www.behance.net/) _Behance é uma rede de sites e serviços especializada na autopromoção, incluindo consultoria e sites de portfólio online._
+      - [CSS Design Awards](https://www.cssdesignawards.com/) _Layoults para se inspirar._
 
  - #### Inteligência Artificial ⚡
       - [Bing](https://bing.com/chat) _Serviço integrado ao sistemas de busca da MS. É possível criar imagens sem criar nenhum tipo de conta._
