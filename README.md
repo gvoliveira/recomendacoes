@@ -24,6 +24,7 @@ _Criei este repositório com o ojetivo de agrupar algumas informações para meu
   - Lean Inception - Paulo Caroli (2018).
   - Ergodesign e arquitetura de informação: Trabalhando com o usuário - Luiz Agner (2023).
   - Design Centrado no Usuário - Travis Lowdermilk (2013).
+  - Código Limpo - Robert C. Martin (2009) (relendo atualmente).
 
 ## :octocat: Repositórios 
 Repositórios para aprofundar/reforçar os estudos.
