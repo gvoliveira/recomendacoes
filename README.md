@@ -2,7 +2,7 @@
 ### _Um resumo com materiais úteis para estudos na área de desenvolvimento_
  ![version](https://badgen.net/badge/vers%C3%A3o/0.1/yellow) ![license](https://badgen.net/badge/license/MIT/green)   ![ADS](https://badgen.net/badge/icon/ADS?icon=terminal&label) ![tinf](https://badgen.net/badge/icon/TINF?icon=buymeacoffee&label) 
 ##### Gilberto Viana de Oliveira 
-> agosto/2023
+> setembro/2024
 
 _Primeiramente, pra quem não me conhece, sou Gilberto, professor do curso Técnico em Informática e também do curso de Análise e Desenvolvimento de Sistemas._ 
 _Criei este repositório com o ojetivo de agrupar algumas informações para meus alunos. Em diversas aulas sugiro ferramentas, apostilas, livros, canais, etc. Muitas vezes (quem é professor sabe), a gente acaba esquecendo de colocar alguma referência naquele exato momento. Sendo assim, este repositório agrupa a maioria dessas indicações de maneira organizada. Também deixo aberto para quem queira contribuir com mais materiais relacionados._ 👊
@@ -40,8 +40,9 @@ Repositórios para aprofundar/reforçar os estudos.
 Algumas IDEs instaláveis, bem como algumas alternativas online e ferramentas que me ajudam no dia a dia.
 
 - #### Algoritmos 🚥 
-   - VisualG: https://visualg3.com.br/baixar-o-visualg3-0/
+   - Portugol Studio Online: https://portugol.dev/   
    - Portugol Studio: http://univali-lite.github.io/Portugol-Studio/
+   - VisualG: https://visualg3.com.br/baixar-o-visualg3-0/
    - Fluxogramas: https://www.lucidchart.com/
 
 - #### C 🚀
@@ -115,9 +116,12 @@ Algumas IDEs instaláveis, bem como algumas alternativas online e ferramentas qu
  - #### Inteligência Artificial ⚡
       - [Bing](https://bing.com/chat) _Serviço integrado ao sistemas de busca da MS. É possível criar imagens sem criar nenhum tipo de conta._
       - [Midhourney](https://www.midjourney.com/) _O Midjourney gera imagens a partir de descrições em linguagem natural. Precisa de conta e discord._
+      - [Suno](https://suno.com/create) _Serviço online para geração de músicas através de IA generativa._
 
  - #### Estudos com Gamificação: 🎮
       - [Flexbox Advendure](https://codingfantasy.com/games/flexboxadventure) _Um jogo que se baseia no uso correto de flexbox para se progredir._
+      - [Flexbox Froggy](https://flexboxfroggy.com/) _Jogo parecido com o anterior, para posicionamento do sapo usando as propriedades de flexbox._
+      - [CSS Diner](https://flukeout.github.io/) _Uso de CSS para treino de uso de seletores._
       - [Make it True](https://play.google.com/store/apps/details?id=com.ViacheslavRud.Circuit&hl=pt_BR&gl=US) _Jogo para android onde circuitos lógicos são utilizados._
       - [FrontendMentor](https://www.frontendmentor.io/challenges) _Desafios de codificação de projetos para frontend._
 
