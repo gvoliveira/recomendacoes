@@ -64,10 +64,11 @@ Algumas IDEs instaláveis, bem como algumas alternativas online e ferramentas qu
 - #### Extensões do VScode 💠
     - Bracket Pair Color DLW
     - Color Highlight
-    - FiraCode font
+    - FiraCode (fonte com ligature)
     - Live Server
     - Prettier
     - Symbols
+  
 
 ## :arrow_forward: Canais do Youtube e Playlists 
 - #### Playlists e Vídeos 🎬
