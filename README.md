@@ -2,7 +2,7 @@
 ### _Um resumo com materiais úteis para estudos na área de desenvolvimento_
  ![version](https://badgen.net/badge/vers%C3%A3o/0.1/yellow) ![license](https://badgen.net/badge/license/MIT/green)   ![ADS](https://badgen.net/badge/icon/ADS?icon=terminal&label) ![tinf](https://badgen.net/badge/icon/TINF?icon=buymeacoffee&label) 
 ##### Gilberto Viana de Oliveira 
-> setembro/2024
+> dezembro/2024
 
 _Primeiramente, pra quem não me conhece, sou Gilberto, professor do curso Técnico em Informática e também do curso de Análise e Desenvolvimento de Sistemas._ 
 _Criei este repositório com o ojetivo de agrupar algumas informações para meus alunos. Em diversas aulas sugiro ferramentas, apostilas, livros, canais, etc. Muitas vezes (quem é professor sabe), a gente acaba esquecendo de colocar alguma referência naquele exato momento. Sendo assim, este repositório agrupa a maioria dessas indicações de maneira organizada. Também deixo aberto para quem queira contribuir com mais materiais relacionados._ 👊
@@ -118,6 +118,7 @@ Algumas IDEs instaláveis, bem como algumas alternativas online e ferramentas qu
       - [Bing](https://bing.com/chat) _Serviço integrado ao sistemas de busca da MS. É possível criar imagens sem criar nenhum tipo de conta._
       - [Midhourney](https://www.midjourney.com/) _O Midjourney gera imagens a partir de descrições em linguagem natural. Precisa de conta e discord._
       - [Suno](https://suno.com/create) _Serviço online para geração de músicas através de IA generativa._
+      - [leonardo.ai](https://leonardo.ai/). _Serviço online para geração de imagens com reset diário de moedas. Pode criar imagens a partir de fotos._
 
  - #### Estudos com Gamificação: 🎮
       - [Flexbox Advendure](https://codingfantasy.com/games/flexboxadventure) _Um jogo que se baseia no uso correto de flexbox para se progredir._
