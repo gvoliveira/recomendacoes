@@ -2,7 +2,7 @@
 ### _Um resumo com materiais úteis para estudos na área de desenvolvimento_
  ![version](https://badgen.net/badge/vers%C3%A3o/0.2/yellow) ![license](https://badgen.net/badge/license/MIT/green)   ![ADS](https://badgen.net/badge/icon/ADS?icon=terminal&label) ![tinf](https://badgen.net/badge/icon/TINF?icon=buymeacoffee&label) 
 ##### Gilberto Viana de Oliveira 
-> setembro/2024
+> fevereiro de 2025
 
 _Primeiramente, pra quem não me conhece, sou Gilberto, professor do curso Técnico em Informática e também do curso de Análise e Desenvolvimento de Sistemas._ 
 _Criei este repositório com o ojetivo de agrupar algumas informações para meus alunos. Em diversas aulas sugiro ferramentas, apostilas, livros, canais, etc. Muitas vezes (quem é professor sabe), a gente acaba esquecendo de colocar alguma referência naquele exato momento. Sendo assim, este repositório agrupa a maioria dessas indicações de maneira organizada. Também deixo aberto para quem queira contribuir com mais materiais relacionados._ 👊
