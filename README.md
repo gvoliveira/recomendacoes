@@ -1,8 +1,8 @@
 # Recomendações ![recomendacoes](https://badgen.net/badge/Recomenda%C3%A7%C3%B5es/2023/purple)
 ### _Um resumo com materiais úteis para estudos na área de desenvolvimento_
- ![version](https://badgen.net/badge/vers%C3%A3o/0.1/yellow) ![license](https://badgen.net/badge/license/MIT/green)   ![ADS](https://badgen.net/badge/icon/ADS?icon=terminal&label) ![tinf](https://badgen.net/badge/icon/TINF?icon=buymeacoffee&label) 
+ ![version](https://badgen.net/badge/vers%C3%A3o/0.2/yellow) ![license](https://badgen.net/badge/license/MIT/green)   ![ADS](https://badgen.net/badge/icon/ADS?icon=terminal&label) ![tinf](https://badgen.net/badge/icon/TINF?icon=buymeacoffee&label) 
 ##### Gilberto Viana de Oliveira 
-> setembro/2024
+> fevereiro/2025
 
 _Primeiramente, pra quem não me conhece, sou Gilberto, professor do curso Técnico em Informática e também do curso de Análise e Desenvolvimento de Sistemas._ 
 _Criei este repositório com o ojetivo de agrupar algumas informações para meus alunos. Em diversas aulas sugiro ferramentas, apostilas, livros, canais, etc. Muitas vezes (quem é professor sabe), a gente acaba esquecendo de colocar alguma referência naquele exato momento. Sendo assim, este repositório agrupa a maioria dessas indicações de maneira organizada. Também deixo aberto para quem queira contribuir com mais materiais relacionados._ 👊
@@ -82,6 +82,7 @@ Algumas IDEs instaláveis, bem como algumas alternativas online e ferramentas qu
    - [Diolinux](https://www.youtube.com/@Diolinux) _Canal de tecnologia, open source e linux._   
    - [ProgBR](https://www.youtube.com/@Programadorbr) _Canal sobre programação, carreira e empreendedorismo._
    - [Filipe Deschamps](https://www.youtube.com/@FilipeDeschamps) _Canal sobre programação, rotina e produtividade._
+   - [Fernanda Kipper](https://www.youtube.com/@kipperdev) _Canal sobre rotina de uma dev e treinamentos._
    - [Akitando](https://www.youtube.com/@Akitando) _Canal onde Fábio Akita aborda vários assuntos relacionados à computação e tecnologia._
    - [Lucas Montano](https://www.youtube.com/@LucasMontano) _Canal sobre carreira em tecnologia._
 
@@ -115,9 +116,11 @@ Algumas IDEs instaláveis, bem como algumas alternativas online e ferramentas qu
       - [CSS Design Awards](https://www.cssdesignawards.com/) _Layoults para se inspirar._
 
  - #### Inteligência Artificial ⚡
+      - [LMStudio](https://lmstudio.ai/docs) _Plataforma para uso de LLMs (Large Language Models) de forma local e offline._
       - [Bing](https://bing.com/chat) _Serviço integrado ao sistemas de busca da MS. É possível criar imagens sem criar nenhum tipo de conta._
       - [Midhourney](https://www.midjourney.com/) _O Midjourney gera imagens a partir de descrições em linguagem natural. Precisa de conta e discord._
       - [Suno](https://suno.com/create) _Serviço online para geração de músicas através de IA generativa._
+      - [Pixverse](https://app.pixverse.ai) _Plataforma para criação e edição de imagens com inteligência artificial_
 
  - #### Estudos com Gamificação: 🎮
       - [Flexbox Advendure](https://codingfantasy.com/games/flexboxadventure) _Um jogo que se baseia no uso correto de flexbox para se progredir._
