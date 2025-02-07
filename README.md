@@ -108,6 +108,7 @@ Algumas IDEs instaláveis, bem como algumas alternativas online e ferramentas qu
   - #### Geradores de paleta de cores 🌈
       - Adobe Color Wheel (https://color.adobe.com/pt/)
       - Tailwind CSS color (https://uicolors.app/create)
+      - Mybrandnewlogo (https://mybrandnewlogo.com/pt/gerador-de-paleta-de-cores)
 
  - #### Inspiração e Design 🌟 
       - [Awwwards](https://www.awwwards.com/) _Awwwards é um organismo de competição profissional de web design e desenvolvimento._
