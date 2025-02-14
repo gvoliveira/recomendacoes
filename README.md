@@ -1,4 +1,4 @@
-# Recomendações ![recomendacoes](https://badgen.net/badge/Recomenda%C3%A7%C3%B5es/2023/purple)
+# Recomendações ![recomendacoes](https://badgen.net/badge/Recomenda%C3%A7%C3%B5es/2025/purple)
 ### _Um resumo com materiais úteis para estudos na área de desenvolvimento_
  ![version](https://badgen.net/badge/vers%C3%A3o/0.2/yellow) ![license](https://badgen.net/badge/license/MIT/green)   ![ADS](https://badgen.net/badge/icon/ADS?icon=terminal&label) ![tinf](https://badgen.net/badge/icon/TINF?icon=buymeacoffee&label) 
 ##### Gilberto Viana de Oliveira 
