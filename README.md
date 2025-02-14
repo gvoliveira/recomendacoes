@@ -83,7 +83,6 @@ Algumas IDEs instaláveis, bem como algumas alternativas online e ferramentas qu
    - [ProgBR](https://www.youtube.com/@Programadorbr) _Canal sobre programação, carreira e empreendedorismo._
    - [Filipe Deschamps](https://www.youtube.com/@FilipeDeschamps) _Canal sobre programação, rotina e produtividade._
    - [Fernanda Kipper](https://www.youtube.com/@kipperdev) _Canal sobre rotina de uma dev e treinamentos._
-   - [Akitando](https://www.youtube.com/@Akitando) _Canal onde Fábio Akita aborda vários assuntos relacionados à computação e tecnologia._
    - [Lucas Montano](https://www.youtube.com/@LucasMontano) _Canal sobre carreira em tecnologia._
 
 - #### Podcasts 🔊
