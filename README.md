@@ -230,16 +230,16 @@ Aprender praticando, em formato de jogo ou de exercícios.
 
 ## Como contribuir
 
-Usou ou descobriu algo legal? Pois venha contribuir! Siga o passo a passo:
+Descobriu algo legal? Pois venha contribuir! Siga o passo a passo:
 
 1. Abra uma **issue** com o link e uma breve descrição, ou faça um **fork** e envie um **Pull Request**.
 2. Siga o padrão das listas: `- [Nome](link) — descrição curta.`
 3. Prefira materiais **gratuitos** e, quando possível, **em português**.
 4. Se puder, indique o nível (**1**, **2** ou **3**, conforme a legenda no topo) e confira se o link está funcionando.
 
-Encontrou um **link quebrado** ou uma informação desatualizada? Abra uma issue também. 🙂
+Encontrou um **link quebrado** ou uma informação desatualizada? Abra uma issue também.
 
-E QUE A FORÇA ESTEJA CONOSCO! SEMPRE!!
+QUE A FORÇA ESTEJA CONOSCO! SEMPRE!!
 
 
 ---
