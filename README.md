@@ -153,6 +153,11 @@ Algumas IDEs instaláveis, bem como alternativas online e ferramentas que me aju
 - [Fernanda Kipper](https://www.youtube.com/@kipperdev) — rotina de uma dev e treinamentos.
 - [Lucas Montano](https://www.youtube.com/@LucasMontano) — carreira em tecnologia.
 - [TeClas](https://www.youtube.com/@TecnologiaeClasse) — tecnologia e luta de classes.
+- [Matheus Battisti](https://www.youtube.com/@MatheusBattisti) — Vídeos sobre programação e IA.
+- [Karine Lago](https://www.youtube.com/@KarineLago) — Vídeos sobre BI e IA.
+- [Akita](https://www.youtube.com/@Akitando) — Canal sobre computação e fundamentos da área.
+
+
 
 ### Podcasts
 
