@@ -25,7 +25,7 @@ Criei este repositório com o objetivo de agrupar algumas informações para meu
   - [Algoritmos, lógica e programação](#algoritmos-lógica-e-programação)
   - [Jogos](#jogos)
   - [Metodologias e UX](#metodologias-e-ux)
-- 🐙 [Repositórios](#repositórios)
+- :octocat: [Repositórios](#repositórios)
 - 💾 [IDEs e ferramentas](#ides-e-ferramentas)
   - [Algoritmos e fluxogramas](#algoritmos-e-fluxogramas)
   - [Linguagem C](#linguagem-c)
